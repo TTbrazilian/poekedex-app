@@ -52,3 +52,7 @@ ios/Runner/ → GoogleService-Info.plist
  ```bash
  flutter run
  ```
+
+# 5. Vídeo demonstração
+
+https://github.com/user-attachments/assets/5f22b7cb-fcfa-4e44-933f-79856c6faaac
