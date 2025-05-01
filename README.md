@@ -1,4 +1,4 @@
-Pokédex Flutter App
+**Pokédex Flutter App
 Aplicativo de Pokédex desenvolvido com Flutter, que consome a PokeAPI e utiliza o Firebase para autenticação de usuários.
 
 ✨ Funcionalidades
