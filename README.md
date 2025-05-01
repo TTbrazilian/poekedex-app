@@ -49,7 +49,6 @@ android/app/ → google-services.json
 ios/Runner/ → GoogleService-Info.plist
 
 # 4. Execute o aplicativo
-bash
-Copiar
-Editar
-flutter run
+ ```bash
+ flutter run
+ ```
