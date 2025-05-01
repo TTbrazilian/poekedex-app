@@ -1,7 +1,7 @@
-#Pokedex Flutter
+# Pokedex Flutter
 
 
-#✨ Funcionalidades
+# ✨ Funcionalidades
 Listagem de Pokémon
 
 Busca por nome ou tipo
@@ -10,7 +10,7 @@ Autenticação de usuários com Firebase Auth
 
 Alternância entre modo claro e escuro
 
-#🔧 Tecnologias Utilizadas
+# 🔧 Tecnologias Utilizadas
 Flutter 3.19
 
 Firebase Authentication
@@ -19,7 +19,7 @@ PokeAPI
 
 Provider (para gerenciamento de estado)
 
-#🚀 Como Executar o Projeto
+# 🚀 Como Executar o Projeto
 1. Clone o repositório
 bash
 Copiar
@@ -48,7 +48,7 @@ android/app/ → google-services.json
 
 ios/Runner/ → GoogleService-Info.plist
 
-#4. Execute o aplicativo
+# 4. Execute o aplicativo
 bash
 Copiar
 Editar
